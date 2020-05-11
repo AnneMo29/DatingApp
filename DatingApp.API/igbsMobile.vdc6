@@ -1,0 +1,568 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TableName" type="xs:string" minOccurs="0" />
+                <xs:element name="IsFilter" type="xs:string" minOccurs="0" />
+                <xs:element name="Filter" type="xs:string" minOccurs="0" />
+                <xs:element name="IsScope" type="xs:string" minOccurs="0" />
+                <xs:element name="ScopeLow" type="xs:string" minOccurs="0" />
+                <xs:element name="ScopeHigh" type="xs:string" minOccurs="0" />
+                <xs:element name="IndexName" type="xs:string" minOccurs="0" />
+                <xs:element name="FieldsOrder" type="xs:string" minOccurs="0" />
+                <xs:element name="IsFTS" type="xs:string" minOccurs="0" />
+                <xs:element name="ftsField" type="xs:string" minOccurs="0" />
+                <xs:element name="ftsPattern" type="xs:string" minOccurs="0" />
+                <xs:element name="recNo" type="xs:string" minOccurs="0" />
+                <xs:element name="findExpression" type="xs:string" minOccurs="0" />
+                <xs:element name="evalTest" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultSettings" type="xs:string" minOccurs="0" />
+                <xs:element name="selectedTab" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="Table2">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="QueryColumn" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <TableName>IMGGEBOUWDEEL</TableName>
+    <IsFilter>False</IsFilter>
+    <Filter />
+    <IsScope>False</IsScope>
+    <ScopeLow />
+    <ScopeHigh />
+    <IndexName>&lt;None&gt;</IndexName>
+    <FieldsOrder>0</FieldsOrder>
+    <IsFTS>False</IsFTS>
+    <ftsField />
+    <ftsPattern />
+    <recNo>852</recNo>
+    <findExpression />
+    <evalTest />
+    <defaultSettings>0</defaultSettings>
+    <selectedTab>0</selectedTab>
+  </Table1>
+  <Table1>
+    <TableName>PRIJSNOOD</TableName>
+    <IsFilter>False</IsFilter>
+    <Filter />
+    <IsScope>False</IsScope>
+    <ScopeLow />
+    <ScopeHigh />
+    <IndexName>&lt;None&gt;</IndexName>
+    <FieldsOrder>0</FieldsOrder>
+    <IsFTS>False</IsFTS>
+    <ftsField />
+    <ftsPattern />
+    <recNo>0</recNo>
+    <findExpression />
+    <evalTest />
+    <defaultSettings>0</defaultSettings>
+    <selectedTab>0</selectedTab>
+  </Table1>
+  <Table1>
+    <TableName>TBLHANDELING</TableName>
+    <IsFilter>False</IsFilter>
+    <Filter />
+    <IsScope>False</IsScope>
+    <ScopeLow />
+    <ScopeHigh />
+    <IndexName>&lt;None&gt;</IndexName>
+    <FieldsOrder>0</FieldsOrder>
+    <IsFTS>False</IsFTS>
+    <ftsField />
+    <ftsPattern />
+    <recNo>0</recNo>
+    <findExpression />
+    <evalTest />
+    <defaultSettings>0</defaultSettings>
+    <selectedTab>0</selectedTab>
+  </Table1>
+  <Table1>
+    <TableName>TBLNIVEAU4</TableName>
+    <IsFilter>False</IsFilter>
+    <Filter />
+    <IsScope>False</IsScope>
+    <ScopeLow />
+    <ScopeHigh />
+    <IndexName>&lt;None&gt;</IndexName>
+    <FieldsOrder>0</FieldsOrder>
+    <IsFTS>False</IsFTS>
+    <ftsField />
+    <ftsPattern />
+    <recNo>852</recNo>
+    <findExpression />
+    <evalTest />
+    <defaultSettings>0</defaultSettings>
+    <selectedTab>0</selectedTab>
+  </Table1>
+  <Table1>
+    <TableName>MIDHANDELING</TableName>
+    <IsFilter>False</IsFilter>
+    <Filter />
+    <IsScope>False</IsScope>
+    <ScopeLow />
+    <ScopeHigh />
+    <IndexName>&lt;None&gt;</IndexName>
+    <FieldsOrder>0</FieldsOrder>
+    <IsFTS>False</IsFTS>
+    <ftsField />
+    <ftsPattern />
+    <recNo>222</recNo>
+    <findExpression />
+    <evalTest />
+    <defaultSettings>0</defaultSettings>
+    <selectedTab>0</selectedTab>
+  </Table1>
+  <Table1>
+    <TableName>TBLELEMENT</TableName>
+    <IsFilter>False</IsFilter>
+    <Filter />
+    <IsScope>False</IsScope>
+    <ScopeLow />
+    <ScopeHigh />
+    <IndexName>&lt;None&gt;</IndexName>
+    <FieldsOrder>0</FieldsOrder>
+    <IsFTS>False</IsFTS>
+    <ftsField />
+    <ftsPattern />
+    <recNo>0</recNo>
+    <findExpression />
+    <evalTest />
+    <defaultSettings>0</defaultSettings>
+    <selectedTab>0</selectedTab>
+  </Table1>
+  <Table1>
+    <TableName>TBLGEBOUWDEEL</TableName>
+    <IsFilter>False</IsFilter>
+    <Filter />
+    <IsScope>False</IsScope>
+    <ScopeLow />
+    <ScopeHigh />
+    <IndexName>&lt;None&gt;</IndexName>
+    <FieldsOrder>0</FieldsOrder>
+    <IsFTS>False</IsFTS>
+    <ftsField />
+    <ftsPattern />
+    <recNo>9044</recNo>
+    <findExpression />
+    <evalTest />
+    <defaultSettings>0</defaultSettings>
+    <selectedTab>0</selectedTab>
+  </Table1>
+  <Table1>
+    <TableName>TBLOBJECT</TableName>
+    <IsFilter>False</IsFilter>
+    <Filter />
+    <IsScope>False</IsScope>
+    <ScopeLow />
+    <ScopeHigh />
+    <IndexName>&lt;None&gt;</IndexName>
+    <FieldsOrder>0</FieldsOrder>
+    <IsFTS>False</IsFTS>
+    <ftsField />
+    <ftsPattern />
+    <recNo>2771</recNo>
+    <findExpression />
+    <evalTest />
+    <defaultSettings>0</defaultSettings>
+    <selectedTab>0</selectedTab>
+  </Table1>
+  <Table2>
+    <QueryColumn>CREATE TABLE [TblEleUittrek] (
+	[uit_id] Int IDENTITY(153350,1) NOT NULL,
+	[uit_pk] Char(25) NULL DEFAULT (''),
+	[uit_type] Char(1) NULL,
+	[uit_elefk] Char(25) NULL DEFAULT ((0)),
+	[uit_reffk] Char(25) NULL DEFAULT ((0)),
+	[uit_gebfk] Char(25) NULL DEFAULT ((0)),
+	[uit_sort] Char(25) NULL DEFAULT ((0)),
+	[uit_hanfk] Char(25) NULL DEFAULT ((0)),
+	[uit_ruifk] Char(25) NULL DEFAULT ((0)),
+	[uit_artfk] Char(25) NULL DEFAULT ((0)),
+	[uit_levfk] Char(25) NULL DEFAULT ((0)),
+	[uit_close] Bit NULL,
+	[uit_tekening] Char(25) NULL DEFAULT (''),
+	[uit_tekst] Char(55) NULL DEFAULT (''),
+	[uit_aantal] Decimal NULL DEFAULT ((0)),
+	[uit_factor] Decimal NULL DEFAULT ((0)),
+	[uit_m2] Decimal NULL DEFAULT ((0)),
+	[uit_m1] Decimal NULL DEFAULT ((0)),
+	[uit_lengte] Decimal NULL DEFAULT ((0)),
+	[uit_breedte] Decimal NULL DEFAULT ((0)),
+	[uit_hoogte] Decimal NULL DEFAULT ((0)),
+	[uit_totaal] Decimal NULL DEFAULT ((0)),
+	[uit_opm] VarChar(MAX) NULL DEFAULT (''),
+	[timestamp_column] Binary(8) NULL,
+	[uit_pk2] Char(25) NULL DEFAULT ('')
+);
+ALTER TABLE [TblEleUittrek] ADD CONSTRAINT [PK_TblEleUittrek] PRIMARY KEY ([uit_id]);
+ALTER TABLE [TblEleUittrek] ADD CONSTRAINT [FK_TblEleUittrek_TblElement] FOREIGN KEY ([uit_elefk]) REFERENCES [TblElement]([ele_pk]) ON DELETE CASCADE ON UPDATE CASCADE;</QueryColumn>
+  </Table2>
+  <Table2>
+    <QueryColumn>CREATE TABLE [TblHandeling] (
+	[han_pk] Char(25) NOT NULL,
+	[han_elefk] Char(25) NULL,
+	[han_reffk] Char(25) NULL,
+	[han_bevfk] Char(25) NULL,
+	[han_groepPk] Char(40) NULL,
+	[han_type] Char(1) NULL,
+	[han_tekst] Char(64) NULL,
+	[han_eenheid] Char(3) NULL,
+	[han_hvh] Decimal NULL,
+	[han_prijs_incl] Decimal NULL,
+	[han_prijs] Decimal NULL,
+	[han_btw] Char(2) NULL,
+	[han_startjaar] Decimal NULL,
+	[han_startjaar1] Int NULL,
+	[han_startjaar2] Int NULL,
+	[han_hierarchie] Char(3) NULL,
+	[han_reservering] Bit NULL DEFAULT ((1)),
+	[han_cyclus] Decimal NULL,
+	[han_bitmap] Char(100) NULL,
+	[han_vakfk] Char(10) NULL,
+	[han_urgentie] Decimal NULL,
+	[han_locatie] Char(35) NULL,
+	[han_percentage] Decimal NULL,
+	[han_fonds] Char(25) NULL,
+	[han_admin] Char(12) NULL DEFAULT (''),
+	[han_actie] Char(3) NULL,
+	[han_ondbouw] Char(50) NULL,
+	[han_stopjaar] Decimal NULL,
+	[han_opm] VarChar(MAX) NULL,
+	[han_pip] Bit NULL,
+	[modified] DateTime NULL,
+	[han_foto] VarChar(MAX) NULL,
+	[han_label] Char(25) NULL,
+	[han_nlsfb] Char(16) NULL,
+	[han_stabu] Char(16) NULL,
+	[han_gebrek] Char(6) NULL,
+	[han_cvo] Int NULL,
+	[han_conmatrix] Int NULL DEFAULT ((0)),
+	[han_intensiteit] Int NULL DEFAULT ((0)),
+	[han_omvang] Int NULL DEFAULT ((0)),
+	[han_herstelactiviteit] Int NULL DEFAULT ((0)),
+	[han_gebrekscode] Int NULL DEFAULT ((0)),
+	[han_master] Int NULL,
+	[han_RestJaren] Int NULL,
+	[han_restjaren_eind] Int NULL,
+	[han_AfsPerJaar] Decimal NULL,
+	[han_Saldo] Int NULL,
+	[han_eindsaldo] Int NULL,
+	[han_jaarplan] Int NULL,
+	[han_his_05] Int NULL DEFAULT ((0)),
+	[han_his_04] Int NULL DEFAULT ((0)),
+	[han_his_03] Int NULL DEFAULT ((0)),
+	[han_his_02] Int NULL DEFAULT ((0)),
+	[han_his_01] Int NULL DEFAULT ((0)),
+	[han_00] Int NULL,
+	[han_01] Int NULL,
+	[han_02] Int NULL,
+	[han_03] Int NULL,
+	[han_04] Int NULL,
+	[han_05] Int NULL,
+	[han_06] Int NULL,
+	[han_07] Int NULL,
+	[han_08] Int NULL,
+	[han_09] Int NULL,
+	[han_10] Int NULL,
+	[han_11] Int NULL,
+	[han_12] Int NULL,
+	[han_13] Int NULL,
+	[han_14] Int NULL,
+	[han_15] Int NULL,
+	[han_16] Int NULL,
+	[han_17] Int NULL,
+	[han_18] Int NULL,
+	[han_19] Int NULL,
+	[han_20] Int NULL,
+	[han_21] Int NULL,
+	[han_22] Int NULL,
+	[han_23] Int NULL,
+	[han_24] Int NULL,
+	[han_25] Int NULL,
+	[han_26] Int NULL,
+	[han_27] Int NULL,
+	[han_28] Int NULL,
+	[han_29] Int NULL,
+	[han_30] Int NULL,
+	[han_31] Int NULL,
+	[han_32] Int NULL,
+	[han_33] Int NULL,
+	[han_34] Int NULL,
+	[han_35] Int NULL,
+	[han_36] Int NULL,
+	[han_37] Int NULL,
+	[han_38] Int NULL,
+	[han_39] Int NULL,
+	[han_40] Int NULL,
+	[han_41] Int NULL,
+	[han_42] Int NULL,
+	[han_43] Int NULL,
+	[han_44] Int NULL,
+	[han_45] Int NULL,
+	[han_46] Int NULL,
+	[han_47] Int NULL,
+	[han_48] Int NULL,
+	[han_49] Int NULL,
+	[han_refhanfk] Char(25) NULL,
+	[han_image] VarBinary(MAX) NULL,
+	[han_binary1] VarBinary(MAX) NULL,
+	[han_binary2] VarBinary(MAX) NULL,
+	[han_binary3] VarBinary(MAX) NULL,
+	[han_binary4] VarBinary(MAX) NULL,
+	[han_1ejaar] Int NULL,
+	[han_2ejaar] Int NULL,
+	[han_afs_periode] Int NULL,
+	[han_afs_periode2] Int NULL,
+	[han_twinq] Int IDENTITY(373011,1) NOT NULL,
+	[han_startjaar_res] Int NULL DEFAULT ((0)),
+	[han_nood] Char(100) NULL DEFAULT ((0)),
+	[han_totaal] Int NULL,
+	[han_prijs_rap] Decimal NULL,
+	[han_10jaar] Int NULL
+);
+ALTER TABLE [TblHandeling] ADD CONSTRAINT [PK_TblHandeling] PRIMARY KEY ([han_pk]);
+ALTER TABLE [TblHandeling] ADD CONSTRAINT [FK_TblHandeling_TblElement] FOREIGN KEY ([han_elefk]) REFERENCES [TblElement]([ele_pk]) ON DELETE CASCADE ON UPDATE CASCADE;</QueryColumn>
+  </Table2>
+  <Table2>
+    <QueryColumn>CREATE TABLE [TblElement] (
+	[ele_pk] Char(25) NOT NULL,
+	[ele_gebfk] Char(25) NULL,
+	[ele_reffk] Char(25) NULL,
+	[ele_groepPk] Char(40) NULL,
+	[ele_tekst] Char(64) NULL,
+	[ele_hvh] Decimal NULL,
+	[ele_eenheid] Char(3) NULL,
+	[ele_ni3fk] Char(25) NULL,
+	[ele_matcode] Char(25) NULL,
+	[ele_code] Char(50) NULL,
+	[modified] DateTime NULL,
+	[ele_erffk] Char(25) NULL,
+	[ele_nlsfb] Char(16) NULL,
+	[ele_stabu] Char(16) NULL,
+	[ele_cvo] Int NULL,
+	[ele_uitfk] Char(10) NULL,
+	[ele_kengetal] Bit NULL,
+	[ele_lijst] Bit NULL,
+	[ele_cvojpg] Char(10) NULL,
+	[ele_type] Char(1) NULL,
+	[ele_col] Int NULL,
+	[ele_row] Int NULL,
+	[ele_refelefk] Char(25) NULL,
+	[ele_bevfk] Char(25) NULL,
+	[ele_twinq] Int IDENTITY(325964,1) NOT NULL,
+	[ele_locfk] Char(25) NULL,
+	[ele_label] Char(25) NULL,
+	[ele_omschrijving] VarChar(80) NULL,
+	[ele_ToeLokatie] VarChar(50) NULL,
+	[ele_TypeAanvul] VarChar(50) NULL,
+	[ele_bouwjaar] VarChar(10) NULL,
+	[ele_fabricaat] VarChar(50) NULL,
+	[ele_type2] VarChar(50) NULL,
+	[ele_capaciteit] VarChar(50) NULL,
+	[ele_specificatie] VarChar(50) NULL,
+	[ele_OHfrequentie] VarChar(50) NULL,
+	[ele_image] Char(100) NULL,
+	[ele_berekening] Bit NULL,
+	[ele_ni4fk] Char(10) NULL
+);
+ALTER TABLE [TblElement] ADD CONSTRAINT [PK_TblElement] PRIMARY KEY ([ele_pk]);
+ALTER TABLE [TblElement] ADD CONSTRAINT [FK_TblElement_TblGebouwdeel] FOREIGN KEY ([ele_gebfk]) REFERENCES [TblGebouwdeel]([geb_pk]) ON DELETE CASCADE ON UPDATE CASCADE;</QueryColumn>
+  </Table2>
+  <Table2>
+    <QueryColumn>CREATE TABLE [TblLocatie] (
+	[loc_pk] Char(25) NOT NULL,
+	[loc_objfk] Char(25) NULL,
+	[loc_gebfk] Char(25) NULL,
+	[loc_nummer] Char(10) NULL DEFAULT ((0)),
+	[loc_verdieping] Char(25) NULL DEFAULT ((0)),
+	[loc_tekst] Char(50) NULL,
+	[loc_aantal] Decimal NULL,
+	[loc_opm] VarChar(MAX) NULL,
+	[loc_vak] Char(2) NULL DEFAULT ((0)),
+	[loc_oppervlak] Decimal NULL,
+	[loc_omtrek] Decimal NULL,
+	[loc_hoogte] Decimal NULL,
+	[loc_wand] Decimal NULL,
+	[loc_lengte] Decimal NULL,
+	[loc_breedte] Decimal NULL,
+	[loc_bruto] Decimal NULL,
+	[loc_openingen] Decimal NULL,
+	[loc_deuren] Int NULL,
+	[loc_schuifpui] Int NULL,
+	[loc_garagedeuren] Int NULL,
+	[loc_ramen] Int NULL,
+	[loc_factor] Decimal NULL,
+	[loc_laag] Char(50) NULL,
+	[loc_cvo] Char(1) NULL,
+	[loc_soort] Char(25) NULL DEFAULT ((0)),
+	[Loc_type] Char(25) NULL DEFAULT ((0)),
+	[loc_a] Decimal NULL DEFAULT ((0)),
+	[loc_b] Decimal NULL DEFAULT ((0)),
+	[loc_c] Decimal NULL DEFAULT ((0)),
+	[loc_d] Decimal NULL DEFAULT ((0)),
+	[loc_e] Decimal NULL DEFAULT ((0)),
+	[loc_f] Decimal NULL DEFAULT ((0)),
+	[loc_g] Decimal NULL DEFAULT ((0)),
+	[loc_h] Decimal NULL DEFAULT ((0)),
+	[loc_i] Decimal NULL DEFAULT ((0)),
+	[loc_image] Char(25) NULL,
+	[loc_zichtbaar] Bit NULL
+);
+ALTER TABLE [TblLocatie] ADD CONSTRAINT [PK_TblLocatie] PRIMARY KEY ([loc_pk]);
+ALTER TABLE [TblLocatie] ADD CONSTRAINT [FK_TblLocatie_TblGebouwdeel] FOREIGN KEY ([loc_gebfk]) REFERENCES [TblGebouwdeel]([geb_pk]) ON DELETE CASCADE ON UPDATE CASCADE;</QueryColumn>
+  </Table2>
+  <Table2>
+    <QueryColumn>CREATE TABLE [TblGebouwdeel] (
+	[geb_pk] Char(25) NOT NULL,
+	[geb_objfk] Char(25) NULL,
+	[geb_kort] Char(10) NULL,
+	[geb_naam] Char(35) NULL,
+	[geb_locatie] Char(25) NULL,
+	[geb_type] Char(25) NULL,
+	[geb_eenheden] Int NULL,
+	[geb_soorteenheden] Char(35) NULL,
+	[geb_lengte] NChar(10) NULL,
+	[geb_breedte] NChar(10) NULL,
+	[geb_hoogte] NVarChar(50) NULL,
+	[geb_startonderhoud] NChar(10) NULL,
+	[geb_startrenovatie] NChar(10) NULL,
+	[geb_startschilderwerk] NChar(10) NULL,
+	[geb_saldo] Int NULL,
+	[geb_windroos] Char(30) NULL,
+	[geb_foto] VarChar(MAX) NULL,
+	[geb_bouwjaar] Char(10) NULL,
+	[geb_leeftijd] Char(10) NULL,
+	[geb_insdatum] Char(10) NULL,
+	[geb_oppervlak] Char(10) NULL,
+	[geb_inspecteur] Char(20) NULL,
+	[geb_select] Char(10) NULL,
+	[geb_image] Char(25) NULL
+);
+ALTER TABLE [TblGebouwdeel] ADD CONSTRAINT [PK_TblGebouwdeel] PRIMARY KEY ([geb_pk]);
+ALTER TABLE [TblGebouwdeel] ADD CONSTRAINT [FK_TblGebouwdeel_TblObject] FOREIGN KEY ([geb_objfk]) REFERENCES [TblObject]([obj_pk]) ON DELETE CASCADE ON UPDATE CASCADE;</QueryColumn>
+  </Table2>
+  <Table2>
+    <QueryColumn>CREATE TABLE [TblObject] (
+	[obj_pk] Char(25) NOT NULL,
+	[obj_select] Bit NULL DEFAULT ((1)),
+	[obj_relfk] VarChar(MAX) NULL DEFAULT ('0'),
+	[obj_klachten] Char(25) NULL DEFAULT ((0)),
+	[obj_naam] Char(80) NULL DEFAULT ('Nieuw object'),
+	[obj_adres] Char(80) NULL,
+	[obj_postcode] Char(7) NULL,
+	[obj_plaats] Char(35) NULL,
+	[obj_telefoon] Char(15) NULL,
+	[obj_bouwjaar] Char(4) NULL,
+	[obj_renojaar] Char(4) NULL,
+	[obj_inspecteur] Char(55) NULL,
+	[obj_inspectie] DateTime NULL,
+	[obj_type] Char(25) NULL,
+	[obj_versie] Char(2) NULL DEFAULT ((9)),
+	[obj_wizard] Char(25) NULL DEFAULT ('Geen'),
+	[obj_monument] Char(25) NULL,
+	[obj_ligging] Char(15) NULL,
+	[obj_grondm2] Decimal NULL,
+	[obj_brutom3] Decimal NULL,
+	[obj_achterstal] Decimal NULL,
+	[obj_opmerkingen] VarChar(MAX) NULL,
+	[obj_btw] Bit NULL,
+	[obj_basisjaar] Decimal NULL,
+	[obj_stopjaar] Decimal NULL,
+	[obj_aantal] Decimal NULL,
+	[obj_reservering] Decimal NULL,
+	[obj_referentie] Char(25) NULL DEFAULT ('Referentie'),
+	[obj_mjop] Char(1) NULL DEFAULT ('M'),
+	[obj_cartotheek] Char(1) NULL DEFAULT ('T'),
+	[obj_foto] VarChar(MAX) NULL,
+	[obj_foto2] VarChar(MAX) NULL,
+	[obj_foto3] VarChar(MAX) NULL,
+	[obj_foto4] VarChar(MAX) NULL,
+	[obj_cno] Int NULL,
+	[obj_binary1] VarBinary(MAX) NULL,
+	[obj_binary2] VarBinary(MAX) NULL,
+	[obj_binary3] VarBinary(MAX) NULL,
+	[obj_binary4] VarBinary(MAX) NULL,
+	[obj_saldo] Decimal NULL,
+	[obj_eenheden] Int NULL,
+	[obj_soorteenheden] Char(25) NULL,
+	[obj_code] Char(35) NULL,
+	[obj_datamap] VarChar(MAX) NULL,
+	[obj_beheerder] Char(25) NULL,
+	[obj_text1] Char(25) NULL,
+	[obj_text2] Char(25) NULL,
+	[obj_text3] Char(25) NULL,
+	[obj_text4] Char(25) NULL,
+	[obj_text5] Char(25) NULL,
+	[obj_text6] Char(25) NULL,
+	[obj_text7] Char(25) NULL,
+	[obj_text8] Char(25) NULL,
+	[obj_text9] Char(25) NULL,
+	[obj_text10] Char(25) NULL,
+	[obj_text11] Char(25) NULL,
+	[obj_num1] Int NULL,
+	[obj_num2] Int NULL,
+	[obj_num3] Int NULL,
+	[obj_num4] Int NULL,
+	[obj_num5] Int NULL,
+	[obj_num6] Decimal NULL,
+	[obj_num7] Decimal NULL,
+	[obj_num8] Decimal NULL,
+	[obj_num9] Decimal NULL,
+	[obj_num10] Decimal NULL,
+	[obj_url] Char(50) NULL,
+	[obj_sel1] Char(25) NULL,
+	[obj_sel2] Char(25) NULL,
+	[obj_sel3] Char(25) NULL,
+	[obj_sel4] Char(25) NULL,
+	[obj_sel5] Char(25) NULL,
+	[obj_sel6] Char(25) NULL,
+	[obj_sel7] Char(25) NULL,
+	[obj_sel8] Char(25) NULL,
+	[obj_sel9] Char(25) NULL,
+	[obj_sel10] Char(25) NULL,
+	[obj_sel11] Char(25) NULL,
+	[obj_sel12] Char(25) NULL,
+	[obj_sel13] Char(25) NULL,
+	[obj_sel14] Char(25) NULL,
+	[obj_sel15] Char(25) NULL,
+	[obj_aantalgebouwen] Int NULL DEFAULT ((1)),
+	[obj_tekeningen] Char(50) NULL DEFAULT ('N.v.t.'),
+	[obj_aantalgarage] Int NULL DEFAULT ((0)),
+	[obj_terreinoppervlak] Int NULL DEFAULT ((0)),
+	[obj_aantalrapporten] Int NULL DEFAULT ((1)),
+	[obj_index] Decimal NULL,
+	[obj_scope] Int NULL,
+	[obj_eindsaldo] Int NULL,
+	[obj_beginsaldo] Int NULL,
+	[obj_renteplus] Decimal NULL DEFAULT ((0)),
+	[obj_rentemin] Decimal NULL DEFAULT ((0)),
+	[obj_reservering_alt] Int NULL DEFAULT ((0))
+);
+ALTER TABLE [TblObject] ADD CONSTRAINT [PK_TblObject] PRIMARY KEY ([obj_pk]);</QueryColumn>
+  </Table2>
+  <Table2>
+    <QueryColumn>CREATE TABLE [ImgCartotheek] (
+	[img_car_pk] Int IDENTITY(38,1) NOT NULL,
+	[img_car_locfk] Char(25) NULL,
+	[img_car_name] Char(50) NULL,
+	[img_car_binary] VarBinary(MAX) NULL
+);
+ALTER TABLE [ImgCartotheek] ADD CONSTRAINT [PK_ImgCartotheek] PRIMARY KEY ([img_car_pk]);
+ALTER TABLE [ImgCartotheek] ADD CONSTRAINT [FK_ImgCartotheek_TblLocatie] FOREIGN KEY ([img_car_locfk]) REFERENCES [TblLocatie]([loc_pk]) ON DELETE CASCADE ON UPDATE CASCADE;</QueryColumn>
+  </Table2>
+</NewDataSet>
